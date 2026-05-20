@@ -58,6 +58,8 @@ full-stack web applications using Rust.
 
 - [tauri-leptos-ssr](https://github.com/codeitlikemiley/tauri-leptos-ssr) - ⚡ Tauri + Leptos SSR starter template , Build native desktop apps with server-side rendering, all in Rust.
 
+- [antigravity-sdk-rust](https://github.com/codeitlikemiley/antigravity-sdk-rust) - The Google Antigravity Rust SDK for building AI agents powered by Antigravity and Gemini. Includes Leptos example apps: a full-stack chat app using Leptos + Axum (native), and a Leptos + Spin/WASI (edge) variant that runs as a WebAssembly component via [leptos-spin](https://github.com/akamai-developers/leptos-spin).
+
 ## Styling and Design
 
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS
@@ -217,4 +219,4 @@ full-stack web applications using Rust.
 - [osynic-osuapi.deno.dev](https://osynic-osuapi.deno.dev/) Beautiful, modern [OsynicOsuapi](https://github.com/osynicite/osynic_osuapi) demo website. Deployed on Deno Deploy. Built with Leptos CSR + TailwindCSS + Lucide Leptos + Leptos Fluent + Osynic Osuapi ([github](https://github.com/islatri/leptos_osuapi_playground))
 - [SQLite Playground](https://sqlight.dev) A SQLite Playground that runs completely locally. Built with Leptos CSR. ([github](https://github.com/Spxg/sqlight))
 - [ccf-deadlines](https://ccfddl.com) Collaboratively track worldwide conference deadlines. Built with Leptos CSR and thaw-ui. ([github](https://github.com/ccfddl/ccf-deadlines))
-
+- [goldcoders.dev](https://goldcoders.dev) - Professional system automation and software engineering. Built with Leptos.
